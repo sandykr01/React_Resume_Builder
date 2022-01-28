@@ -1,0 +1,149 @@
+{
+  "Sidebar": {
+    "Profile": {
+      "Name": "Sandeep Kumar",
+      "Image": "https://github.com/sk9873422561/portfolio/blob/master/profile.jpg?raw=true",
+      "Role": "Pre-Final Year Computer Science & Engineering Student"
+    },
+    "ContactInfo": [
+      {
+        "Icon": "phone",
+        "Text": "(+91) 8800137303"
+      },
+      {
+        "Icon": "map-marker",
+        "Text": "Delhi-NCR, INDIA"
+      },
+      {
+        "Icon": "envelope-o",
+        "Text": "sk9873422561@gmail.com"
+      },
+      {
+        "Icon": "github",
+        "Text": "https://github.com/sk9873422561"
+      },
+      {
+        "Icon": "globe",
+        "Text": "https://sk9873422561.github.io/portfolio/"
+      },
+      {
+        "Icon": "linkedin",
+        "Text": "https://www.linkedin.com/in/sandeep-kumar-9a2290143"
+      }
+    ],
+    "Education": [
+      {
+        "Years": "2023 - 2019 (Average CGPA: 8.61)",
+        "Degree": "B.Tech. Computer Science & Engineering",
+        "Univ": "Noida Institute of Engineering & Technology"
+      },
+      {
+        "Years": "2016 - 2018 (12th Grade: 80%)",
+        "Degree": "Senior Secondary Education (PCM)",
+        "Univ": "H.M.D.A.V.Sr.Sec.School, Daryaganj, New-Delhi"
+      },
+      {
+        "Years": "2015 - 2016 (10th Grade: 9.4 CGPA)",
+        "Degree": "Matriculation",
+        "Univ": "H.M.D.A.V.Sr.Sec.School, Daryaganj, New-Delhi"
+      }
+    ],
+    "Languages": [
+      {
+        "Name": "Python",
+        "Mark": 70
+      },
+      {
+        "Name": "Javascript",
+        "Mark": 55
+      },
+      {
+        "Name": "C/C++",
+        "Mark": 45
+      },
+      {
+        "Name": "MATLAB",
+        "Mark": 40
+      },
+      {
+        "Name": "HTML 5 /CSS 3",
+        "Mark": 75
+      }
+    ]
+  },
+
+  "Main": {
+    "projects": [
+      {
+        "projectName": "Zomato Clone Using MERN Stack",
+        "projectDesc": "Developed zomato clone using React.js for frontend along with Redux for state management and used Node.js, Express.js, MongoDB, Mongoose for backend along with JWT for authorization and authentication "
+      },
+      {
+        "projectName": "Breast Cancer Diagnosis Prediction",
+        "projectDesc": "Utilized Python to visualize data and used several ML models to predict whether the tumor found in breast cancer is Benign or Malignant as part of a Seminar-based project"
+      }
+    ],
+    "expDetails": [
+      {
+        "duration": "06/2021 - 08/2021",
+        "company_Name": "Shape AI",
+        "role": "MERN Stack DEVELOPER",
+        "role_Description": " Taking Doubt Sessions of the students enrolled in the MERN stack course."
+      },
+      {
+        "duration": "04/2020 - 06/2020",
+        "company_Name": "Protect Security And Housekeeping Pvt.Ltd",
+        "role": "Promotions Intern",
+        "role_Description": "utilized data analytics skills to come up with the best promotional price for fixed budget clients by comparing the prices of various services."
+      }
+    ],
+    "skills": [
+      {
+        "skill": "Reactjs",
+        "efficiency": 70
+      },
+      {
+        "skill": "NodeJS",
+        "efficiency": 50
+      },
+      {
+        "skill": "Mongodb",
+        "efficiency": 60
+      },
+      {
+        "skill": "Tableau",
+        "efficiency": 30
+      }
+    ],
+    "certificates": [
+      {
+        "company_Name": "Coursera",
+        "title": " Python 3 Programming Specialization",
+        "link": "https://coursera.org/share/8ef38529dd706cc5e87f895163f96a56"
+      },
+      {
+        "company_Name": "Coursera",
+        "title": "Machine Learning Foundations: A Case Study Approach",
+        "link": "https://www.coursera.org/account/accomplishments/verify/AXRFBNAFRPA6?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+      }
+    ],
+    "interests": [
+      {
+        "Icon": "book",
+        "Text": "Reading"
+      },
+      {
+        "Icon": "gamepad",
+        "Text": "Gaming"
+      },
+      {
+        "Icon": "cutlery",
+        "Text": "Cooking"
+      },
+      {
+        "Icon": "microphone",
+        "Text": "Music"
+      }
+    ]
+  }
+}
