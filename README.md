@@ -1,6 +1,7 @@
 # React_Resume_Builder
 Created a resume builder using react which will resolve all your problems like finding a good template and what to include in resume etc.
-To create your resume just fork the repo and update the config.json file only
+To create your resume just fork the repo and only update the config.json file in src folder,
+
 Fill up all the required details in json file and voila your resume is ready😎
 
 Here is the screenshot of template that is used for the resume. ex:
